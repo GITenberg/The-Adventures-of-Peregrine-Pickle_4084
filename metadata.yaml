@@ -1,0 +1,39 @@
+_repo: The-Adventures-of-Peregrine-Pickle_4084
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smollett, T. (Tobias)
+    aliases:
+    - Smollett, Tobias George
+    - Smollet, T. (Tobias)
+    birthdate: 1721
+    deathdate: 1771
+    gutenberg_agent_id: '838'
+    url: http://www.gutenberg.org/2009/agents/838
+    wikipedia: http://en.wikipedia.org/wiki/Tobias_Smollett
+description: "The Adventures of Peregrine Pickle is a picaresque novel by the Scottish\
+  \ author Tobias Smollett (1721–1771), first published in 1751, and revised and reissued\
+  \ in 1758. It is the story of the fortunes and misfortunes of the egotistical dandy\
+  \ Peregrine Pickle, and it provides a comic and caustic portrayal of 18th-century\
+  \ European society.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4084'
+  wikidata: Q7712607
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+- !lcsh 'Picaresque literature'
+- !lcsh 'Fiction'
+- GITenberg
+title: The Adventures of Peregrine Pickle
+url: http://www.gutenberg.org/ebooks/4084
+wikipedia:
+- https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D0%B5%D1%80%D0%B8%D0%B3%D1%80%D0%B8%D0%BD%D0%B0_%D0%9F%D0%B8%D0%BA%D0%BB%D1%8F
+- https://en.wikipedia.org/wiki/The_Adventures_of_Peregrine_Pickle
